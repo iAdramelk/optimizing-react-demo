@@ -1,0 +1,26 @@
+.app {
+  margin: 20px;
+  padding: 20px;
+  font: 20px Arial;
+}
+
+.table {
+  border: 1px solid #ddd;
+  border-spacing: 10px;
+}
+
+.body {
+}
+
+.row {
+  border: 1px solid #ddd;
+}
+
+.cell {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.button {
+  font: 20px Arial;
+}
