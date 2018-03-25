@@ -6,8 +6,8 @@ There is two subfolders in `src` directory - `before` is for app with standard c
 
 ### Demo in action
 
-- [Before demo](https://iadramelk.github.in/optimizing-react-demo/dist/before.html)
-- [After demo](https://iadramelk.github.in/optimizing-react-demo/dist/after.html)
+- [Before demo](https://iadramelk.github.io/optimizing-react-demo/dist/before.html)
+- [After demo](https://iadramelk.github.io/optimizing-react-demo/dist/after.html)
 
 ### Local experiments
 

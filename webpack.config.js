@@ -12,7 +12,7 @@ module.exports = {
   output: {
     path: path.join(process.cwd(), 'dist/'),
     filename: '[name].[chunkhash].js',
-    publicPath: '/dist/',
+    publicPath: 'https://iadramelk.github.io/optimizing-react-demo/dist/',
   },
   module: {
     rules: [
