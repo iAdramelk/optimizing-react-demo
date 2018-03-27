@@ -1,13 +1,13 @@
-## Optimizing React demo
+## "Optimizing React" demo
 
-This is a demo for an article [Optimizing React]() in Evil Martians [blog](https://evilmartians.com/chronicles).
+This is a demo for the [Optimizing React]() article from the Evil Martians [blog](https://evilmartians.com/chronicles).
 
-There is two subfolders in `src` directory - `before` is for app with standard components and `after` for the version with `PureComponent` in table rows.
+There are two subfolders inside `src` folder: `before` uses standard components, `after` uses `PureComponent` for table rows.
 
 ### Demo in action
 
-- [Before demo](https://iadramelk.github.io/optimizing-react-demo/dist/before.html)
-- [After demo](https://iadramelk.github.io/optimizing-react-demo/dist/after.html)
+- [Regular components demo](https://iadramelk.github.io/optimizing-react-demo/dist/before.html)
+- [Pure components demo](https://iadramelk.github.io/optimizing-react-demo/dist/after.html)
 
 ### Local experiments
 
