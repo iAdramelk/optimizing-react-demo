@@ -1,6 +1,6 @@
 ## "Optimizing React" demo
 
-This is a demo for the [Optimizing React]() article from the Evil Martians [blog](https://evilmartians.com/chronicles).
+This is a demo for the [Optimizing React](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) article from the Evil Martians [blog](https://evilmartians.com/chronicles).
 
 There are two subfolders inside `src` folder: `before` uses standard components, `after` uses `PureComponent` for table rows.
 
